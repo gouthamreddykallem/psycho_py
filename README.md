@@ -1,1 +1,1 @@
-# psycho_py
+Face Detection Attendence System with different technologies 
